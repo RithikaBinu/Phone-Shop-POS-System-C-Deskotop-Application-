@@ -45,4 +45,40 @@ A comprehensive Point of Sale (POS) Windows desktop application built with C# to
 5. Build and run the project (Press `F5` or click **Start**).
 
 ---
+---
+
+## 🖥️ Application Interface
+
+**Login & Register**
+<br>
+*<img width="871" height="453" alt="Screenshot 2026-11-17 000817" src="https://github.com/user-attachments/assets/30116e14-b032-4953-b09a-fe7b9af90159" />*<br>
+*<img width="1031" height="541" alt="Screenshot 2026-11-17 000827" src="https://github.com/user-attachments/assets/122bc548-73b4-40a1-b4ab-1889d48704c6" />*<br>
+*<img width="871" height="455" alt="Screenshot 2026-11-17 000848" src="https://github.com/user-attachments/assets/935c19b1-d02e-4fed-a6e1-deaf673f0046" />*<br>
+<img width="1125" height="635" alt="Screenshot 2026-11-17 000858" src="https://github.com/user-attachments/assets/d5e47b81-2891-4bf7-bc6b-c0ceac60abc4" /><br>
+
+**Dashboard & Navigation**
+*<img width="877" height="457" alt="Screenshot 2026-11-17 000917" src="https://github.com/user-attachments/assets/452ce37e-d9c4-46b7-ae88-fef5220e969f" />
+*<br>
+
+**Point of Sale (Billing) Screen**
+<img width="988" height="562" alt="Screenshot 2026-11-17 001128" src="https://github.com/user-attachments/assets/38ac7131-34f7-4ed2-8e6a-0a551b5f6c39" /><br>
+<img width="995" height="567" alt="Screenshot 2026-11-17 001148" src="https://github.com/user-attachments/assets/2e685c26-5d90-4e06-91bb-d03e88673ff0" /><br>
+<img width="1062" height="582" alt="Screenshot 2026-11-17 001156" src="https://github.com/user-attachments/assets/531db6fa-1635-4d8f-9d88-acc51607bd46" />
+
+**Sales History Screen**<br>
+<img width="1157" height="562" alt="Screenshot 2026-11-17 001208" src="https://github.com/user-attachments/assets/07a295c4-161d-4b3f-baf6-c444418998f4" />
+
+
+**Inventory Management**
+<br>Customer Management<br>
+<img width="1032" height="513" alt="Screenshot 2026-11-17 001055" src="https://github.com/user-attachments/assets/59e72f6f-c916-4b1a-aa4b-83b0e45d6909" /><br>
+
+Products Management<br>
+<img width="1032" height="537" alt="Screenshot 2026-11-17 000955" src="https://github.com/user-attachments/assets/f4fa89cc-b404-4ccf-a0f1-6beda5dfca16" /><br>
+
+Categories Management<br>
+<img width="953" height="553" alt="Screenshot 2026-11-17 000929" src="https://github.com/user-attachments/assets/5d9e004f-3e9c-4adf-979e-a65bcef34102" /><br>
+<img width="591" height="485" alt="Screenshot 2026-11-17 000945" src="https://github.com/user-attachments/assets/2d79ad24-be85-475a-bb8d-8b3da604da4f" />
+
+---
 *Developed by [Rithika Binuwara](https://github.com/RithikaBinu)*
